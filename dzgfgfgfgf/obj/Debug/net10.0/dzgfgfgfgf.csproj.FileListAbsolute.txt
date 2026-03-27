@@ -1,0 +1,14 @@
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\obj\Debug\net10.0\dzgfgfgfgf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\obj\Debug\net10.0\dzgfgfgfgf.AssemblyInfoInputs.cache
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\obj\Debug\net10.0\dzgfgfgfgf.AssemblyInfo.cs
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\obj\Debug\net10.0\dzgfgfgfgf.csproj.CoreCompileInputs.cache
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\bin\Debug\net10.0\dzgfgfgfgf.exe
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\bin\Debug\net10.0\dzgfgfgfgf.deps.json
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\bin\Debug\net10.0\dzgfgfgfgf.runtimeconfig.json
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\bin\Debug\net10.0\dzgfgfgfgf.dll
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\bin\Debug\net10.0\dzgfgfgfgf.pdb
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\obj\Debug\net10.0\dzgfgfgfgf.dll
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\obj\Debug\net10.0\refint\dzgfgfgfgf.dll
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\obj\Debug\net10.0\dzgfgfgfgf.pdb
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\obj\Debug\net10.0\dzgfgfgfgf.genruntimeconfig.cache
+C:\Users\ktooo\source\repos\dzgfgfgfgf\dzgfgfgfgf\obj\Debug\net10.0\ref\dzgfgfgfgf.dll
